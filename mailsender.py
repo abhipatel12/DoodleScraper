@@ -8,7 +8,7 @@ def send_bot_mail():
     sender_email = 'goldendoodle.bot@gmail.com'
     receiver_email = '7705700637@vtext.com'
     # receiver_email = '9122944497@txt.att.net'
-    password = 'Doodle123'
+    password = '*********'
     email_body = "\n\n\nThere's a pupper on the site. Go get it before someone else does!!! " \
                  "https://www.crockettdoodles.com/available-puppies "
 
@@ -93,7 +93,7 @@ def is_running_text():
         server.sendmail(sender_email, receiver_email, email_body)
 
 
-def gotcha_ass():
+def gotcha():
 
     # variables for emails
     sender_email = 'goldendoodle.bot@gmail.com'
