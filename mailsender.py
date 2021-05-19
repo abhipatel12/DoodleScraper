@@ -30,7 +30,7 @@ def send_bot_mail_admin():
     # variables for emails
     sender_email = 'goldendoodle.bot@gmail.com'
     receiver_email = '7705700637@vtext.com'
-    password = 'Doodle123'
+    password = '**********'
     email_body = "\n\n\nThere's a pupper on the site. Go get it before someone else does!!! " \
                  "https://www.crockettdoodles.com/available-puppies "
 
@@ -54,7 +54,7 @@ def welcome_text():
     sender_email = 'goldendoodle.bot@gmail.com'
     receiver_email = '7705700637@vtext.com'
     # receiver_email = '9122944497@txt.att.net'
-    password = 'Doodle123'
+    password = '***********'
     email_body = 'Welcome to you goldendoodle bot. I will text you every time a dog shows up on Crocket doodle ' \
                  'page. There is no unsubscribing from this bot. '
 
@@ -77,7 +77,7 @@ def is_running_text():
     sender_email = 'goldendoodle.bot@gmail.com'
     receiver_email = '7705700637@vtext.com'
     # receiver_email = '9122944497@txt.att.net'
-    password = 'Doodle123'
+    password = '********'
     email_body = 'Your bot is still running somehow. '
 
     # setting port number
@@ -99,7 +99,7 @@ def gotcha():
     sender_email = 'goldendoodle.bot@gmail.com'
     receiver_email = '7708515777@vtext.com'
     # receiver_email = '9122944497@txt.att.net'
-    password = 'Doodle123'
+    password = '********'
     email_body = "\n\n\nThere's a pupper on the site... Lol nah jk  Goodnight :)"
 
     # setting port number
